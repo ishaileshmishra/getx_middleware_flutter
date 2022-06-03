@@ -1,0 +1,32 @@
+threshold: medium
+
+fileignoreconfig:
+
+- filename: .dccache
+  checksum: 4d452e39dbb8cf218cb51a3ab7638bf1f3f838ea021ea3914ee23acd676ed25e
+- filename: .metadata
+  checksum: 209d42159e0e9a7e24be6bd8759979db213541c7956b3561fe5d1f6129e877de
+- filename: ios/Flutter/AppFrameworkInfo.plist
+  checksum: 296ed4bd372b455ad5d474497f9b40677b073a71d541b31ee1b25042426424d2
+- filename: ios/Runner.xcodeproj/project.pbxproj
+  checksum: fc1cb6411d1e31935e1d08e343856505fe34791061b1bcf868b9f0cb4957f98f
+- filename: ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+  checksum: 891e0955785d7c794dc35f94649e5cee7d2dad6e2506db4081a858f50cd793c7
+- filename: ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+  checksum: dfed3029d1da6278d8c1d9d1b4c66716b05f42eb2e6c581b69e9e8e86c301b64
+- filename: ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+  checksum: 493ace34b973ee9428f95e8e34fb9356bebef9c367eb6ea2064dc01e3c69b977
+- filename: ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+  checksum: e9662a27453bd6754e1def1cfb4d368c73dda5e71522dd74b4b0b6d6e6b1866c
+- filename: ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+  checksum: 7548a7b4f16473684319a716085df37d446b0af5bd895704a7f45b8a97d65a64
+- filename: ios/Runner/Base.lproj/LaunchScreen.storyboard
+  checksum: f49bc04fa78a08519364188d72f38c20839c02cc648a98e2b4c472e778e514d5
+- filename: ios/Runner/Base.lproj/Main.storyboard
+  checksum: 94b5ccc5db437138758c35c2e94123553b98463ccbcf606b6a0668d520650e44
+- filename: ios/Runner/Info.plist
+  checksum: 248b23e495c1a32f165081842128529db9a534ed10b494995301d6e268972566
+- filename: windows/runner/utils.h
+  checksum: f647858a48d3e0eb9bbbf6a4b6598a61ffba6a7ba365d36dba8525198693a40f
+- filename: README.md
+  checksum: 762d0a3a59b465a0747bc8a96d8e059c06311d3c326b78ada4b5e094e045172d
